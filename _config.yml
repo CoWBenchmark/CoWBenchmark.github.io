@@ -1,1 +1,4 @@
-theme: Minimal
+title: Minimal theme
+logo: https://www.miccai2021.org/files/images/layout/en/miccai-logo.png
+description: Minimal is a theme for GitHub Pages.
+theme: jekyll-theme-minimal
