@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://cowbenchmark.github.io/sitemap.xml
