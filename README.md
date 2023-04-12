@@ -1,6 +1,18 @@
 # CoWBenchmark.github.io
 Circle of Willis Benchmarking Event 2023 TEST
 
+## Local build and test
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
+`bundle install` has error for `An error occurred while installing mini_racer (0.6.3)`
+
+possible workaround:
+- Installing Node.Js (`node -v # v19.7.0`)
+- Commented out `gem 'mini_racer'`
+
 _(below is the original readme from al-folio fork)_
 ---
 
