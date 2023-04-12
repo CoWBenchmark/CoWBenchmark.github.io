@@ -20,6 +20,8 @@ see github issue [libv8-node error](https://github.com/alshedivat/al-folio/issue
 Pages relevant for the content update (basically all in `_pages` dir):
 - `CoWBenchmark.github.io/_pages/about.md`
 - `_config.yml`
+- `_news/`
+- later if needs to include publications, `_bibliography/papers.bib`
 
 ## GitHub Pages Deploy
 
