@@ -1,13 +1,12 @@
 ---
 layout: page
-title: submenus
+title: challenges
 nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
-    - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: CROWN
+      permalink: /#
+    - title: TopCoW
+      permalink: /#
 ---
