@@ -6,7 +6,7 @@ nav_order: 6
 dropdown: true
 children: 
     - title: CROWN
-      permalink: /#
+      permalink: https://crown.isi.uu.nl/
     - title: TopCoW
-      permalink: /#
+      permalink: https://topcow23.grand-challenge.org/
 ---
