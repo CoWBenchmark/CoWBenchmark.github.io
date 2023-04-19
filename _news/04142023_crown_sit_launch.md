@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[`CROWN`](https://crown.isi.uu.nl/) registration opens and releases first part of training data
+[`CROWN`](https://crown.isi.uu.nl/) registration opens
