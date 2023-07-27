@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-CoW Benchmark joint-event's website launched! :writing_hand:
+CoW Benchmark joint-event's website launched!
