@@ -38,7 +38,7 @@ _Password:_
 | 13:30 | **Opening remarks** (Iris N. Vos) |
 | 13:35 | **🏥 Clinical Keynote 1** (Dr Yihui Ma):<br>Anatomical variations of CoW and their significance |
 | 13:40 | **🏥 Clinical Keynote 2** (Dr Susanne Wegener):<br>Stroke, what it is, how we treat it, and why the CoW could be important |
-| 13:50 | **🏥 Clinical Keynote 3** (Dr Ynte Ruigrok):<br>CoW configuration and aneurysm presence |
+| 13:50 | **🏥 Clinical Keynote 3** (Dr Ynte Ruigrok):<br>Features of the Circle of Willis as imaging markers for intracranial aneurysms |
 | 14:00 | **👑 CROWN Session** (Iris N. Vos):<br>Introduction<br>Presenations by participants<br>Public announcement of challenge results 🏆 |
 | 15:30 | **Coffee Break (30mins)** |
 | 16:00 | **🐮 TopCoW Session** (Fabio Musio & Kaiyuan Yang):<br>Introduction<br>Presenations by participants<br>Awards ceremonny 🏆🇨🇭🐄 |
