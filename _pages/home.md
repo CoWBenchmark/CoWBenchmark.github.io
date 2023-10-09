@@ -11,7 +11,7 @@ profile:
   align: right
   image: Picture_MICCAI_socialmedia.png
   image_circular: false # crops the image to make it circular
-  address: Level 1, Meeting Room M13, Vancouver Convention Center
+  address: # Level 1, Meeting Room M13, Vancouver Convention Center
 ---
 
 Welcome to the **Circle of Willis** _(CoW) Benchmark_ joint-event for [MICCAI 2023](https://conferences.miccai.org/2023/en/)!
