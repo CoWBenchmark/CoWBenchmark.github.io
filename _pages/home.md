@@ -28,8 +28,9 @@ Together both challenges will organize a joint event called the "Circle of Willi
 
 Hybrid participiation welcome! _(Simply join our zoom session here:)_
 
-**👉 Zoom Link: [To appear soon!](/#)**\
-_Password:_
+**👉 Zoom Link: [https://uzh.zoom.us/j/63855958673?pwd=ZUEwWGYvWWVDSGJEN1BDSURLQUthZz09](https://uzh.zoom.us/j/63855958673?pwd=ZUEwWGYvWWVDSGJEN1BDSURLQUthZz09)**\
+_MeetingID: 638 5595 8673_\
+_Password: 996394_
 
 🕜 13:30 - 18:00 (Vancouver Pacific Daylight Time, **GMT-7**). October 12 2023
 
