@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Circle of Willis Benchmarking 2023 # the website title (if blank, full name will be used instead)
+title: CoW Benchmark @ MICCAI # the website title (if blank, full name will be used instead)
 first_name: CoW
 middle_name:
 last_name: Benchmarking

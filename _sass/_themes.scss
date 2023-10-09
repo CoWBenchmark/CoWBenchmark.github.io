@@ -1,14 +1,14 @@
 /*******************************************************************************
  * Themes
  ******************************************************************************/
- 
+
 :root {
   --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$purple-color};
+  --global-theme-color: #{$green-color-dark};
+  --global-hover-color: #{$green-color-dark};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
@@ -33,13 +33,33 @@
   }
 }
 
+.header-background .img {
+  background-image: url("../img/polina-kocheva-oazfJJL9N1A-unsplash_cropped_v5.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center bottom;
+  height: 15em;
+  margin-bottom: 2em;
+  margin-top: -0.5em;
+}
+
+.organizer_img {
+  object-fit: cover;
+  width: 80px !important;
+  height: 80px;
+}
+
+.org_fig figure {
+  margin: 0;
+}
+
 html[data-theme='dark'] {
   --global-bg-color: #{$grey-color-dark};
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$grey-color-light};
   --global-text-color-light: #{$grey-color-light};
-  --global-theme-color: #{$cyan-color};
-  --global-hover-color: #{$cyan-color};
+  --global-theme-color: #{$green-color};
+  --global-hover-color: #{$green-color};
   --global-footer-bg-color: #{$grey-color-light};
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
@@ -61,5 +81,15 @@ html[data-theme='dark'] {
   }
   .repo-img-dark {
     display: block;
+  }
+
+  .header-background .img {
+    background-image: url("../img/polina-kocheva-oazfJJL9N1A-unsplash_cropped_v5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center bottom;
+    height: 15em;
+    margin-bottom: 2em;
+    margin-top: -0.5em;
   }
 }
