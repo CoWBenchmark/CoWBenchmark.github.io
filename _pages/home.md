@@ -94,4 +94,13 @@ Hybrid participiation welcome! _(See the zoom link above at "[Schedule](/#schedu
 
 ## Publications
 
-If you use TopCoW or CROWN challenge data in your work, please consider citing our **upcoming challenge pre-prints** (links to appear).
+If you use TopCoW or CROWN challenge data in your work, please consider citing our **challenge pre-prints**:
+
+```latex
+@article{topcow2023benchmarking,
+  title={TopCoW: Benchmarking Topology-Aware Anatomical Segmentation of the Circle of Willis (CoW) for CTA and MRA},
+  author={Yang, Kaiyuan and Musio, Fabio and Ma, Yihui and Juchler, Norman and Paetzold, Johannes C and Al-Maskari, Rami and H{\"o}her, Luciano and Li, Hongwei Bran and Hamamci, Ibrahim Ethem and Sekuboyina, Anjany and others},
+  journal={arXiv preprint arXiv:2312.17670},
+  year={2023}
+}
+```
