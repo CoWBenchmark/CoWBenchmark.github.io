@@ -97,10 +97,12 @@ Hybrid participiation welcome! _(See the zoom link above at "[Schedule](/#schedu
 If you use TopCoW or CROWN challenge data in your work, please consider citing our **challenge pre-prints**:
 
 ```latex
-@article{topcow2023benchmarking,
-  title={TopCoW: Benchmarking Topology-Aware Anatomical Segmentation of the Circle of Willis (CoW) for CTA and MRA},
-  author={Yang, Kaiyuan and Musio, Fabio and Ma, Yihui and Juchler, Norman and Paetzold, Johannes C and Al-Maskari, Rami and H{\"o}her, Luciano and Li, Hongwei Bran and Hamamci, Ibrahim Ethem and Sekuboyina, Anjany and others},
-  journal={arXiv preprint arXiv:2312.17670},
-  year={2023}
+@misc{topcowchallenge,
+      title={Benchmarking the CoW with the TopCoW Challenge: Topology-Aware Anatomical Segmentation of the Circle of Willis for CTA and MRA}, 
+      author={Kaiyuan Yang and Fabio Musio and Yihui Ma and Norman Juchler and Johannes C. Paetzold and Rami Al-Maskari and Luciano Höher and Hongwei Bran Li and Ibrahim Ethem Hamamci and Anjany Sekuboyina and Suprosanna Shit and Houjing Huang and Chinmay Prabhakar and Ezequiel de la Rosa and Diana Waldmannstetter and Florian Kofler and Fernando Navarro and Martin Menten and Ivan Ezhov and Daniel Rueckert and Iris Vos and Ynte Ruigrok and Birgitta Velthuis and Hugo Kuijf and Julien Hämmerli and Catherine Wurster and Philippe Bijlenga and Laura Westphal and Jeroen Bisschop and Elisa Colombo and Hakim Baazaoui and Andrew Makmur and James Hallinan and Bene Wiestler and Jan S. Kirschke and Roland Wiest and Emmanuel Montagnon and Laurent Letourneau-Guillon and Adrian Galdran and Francesco Galati and Daniele Falcetta and Maria A. Zuluaga and Chaolong Lin and Haoran Zhao and Zehan Zhang and Sinyoung Ra and Jongyun Hwang and Hyunjin Park and Junqiang Chen and Marek Wodzinski and Henning Müller and Pengcheng Shi and Wei Liu and Ting Ma and Cansu Yalçin and Rachika E. Hamadache and Joaquim Salvi and Xavier Llado and Uma Maria Lal-Trehan Estrada and Valeriia Abramova and Luca Giancardo and Arnau Oliver and Jialu Liu and Haibin Huang and Yue Cui and Zehang Lin and Yusheng Liu and Shunzhi Zhu and Tatsat R. Patel and Vincent M. Tutino and Maysam Orouskhani and Huayu Wang and Mahmud Mossa-Basha and Chengcheng Zhu and Maximilian R. Rokuss and Yannick Kirchhoff and Nico Disch and Julius Holzschuh and Fabian Isensee and Klaus Maier-Hein and Yuki Sato and Sven Hirsch and Susanne Wegener and Bjoern Menze},
+      year={2024},
+      eprint={2312.17670},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
